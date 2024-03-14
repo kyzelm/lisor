@@ -1,6 +1,6 @@
 const Lisor = {
     lisorCounter: 0,
-    lisorGif: "/lisor/lisor.gif",
+    lisorGif: "/lisor.gif",
     isRunning: false,
 
     startLisor: () => {

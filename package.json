@@ -1,0 +1,22 @@
+{
+  "name": "lisor",
+  "version": "1.0.0",
+  "description": "D.O. personal signature",
+  "main": "lisor.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dami360/Lisor.git"
+  },
+  "keywords": [
+    "Lisor"
+  ],
+  "author": "Damian Osiński",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dami360/Lisor/issues"
+  },
+  "homepage": "https://github.com/dami360/Lisor#readme"
+}
