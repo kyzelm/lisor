@@ -1,6 +1,6 @@
 {
-  "name": "lisor",
-  "version": "1.0.0",
+  "name": "@kyzelm/lisor",
+  "version": "1.0.1",
   "description": "D.O. personal signature",
   "main": "lisor.js",
   "scripts": {
