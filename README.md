@@ -14,9 +14,10 @@ $ npm install @kyzelm/lisor
 ### Start
 Lisor has one method to start the application. After that fox will be watching you 🦊
 
-After type "lisor" fox will start running.
 ```javascript
 import Lisor from '@kyzelm/lisor';
 
 Lisor.start();
 ```
+
+Type 'lisor' and foxy will go brrr 

@@ -1,14 +1,14 @@
 {
   "name": "@kyzelm/lisor",
-  "version": "1.0.1",
-  "description": "D.O. personal signature",
+  "version": "1.0.2",
+  "description": "My personal signature",
   "main": "lisor.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/dami360/Lisor.git"
+    "url": "git+https://github.com/kyzelm/Lisor.git"
   },
   "keywords": [
     "Lisor"
@@ -16,7 +16,7 @@
   "author": "Damian Osiński",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/dami360/Lisor/issues"
+    "url": "https://github.com/kyzelm/Lisor/issues"
   },
-  "homepage": "https://github.com/dami360/Lisor#readme"
+  "homepage": "https://github.com/kyzelm/Lisor#readme"
 }
