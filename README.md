@@ -1,5 +1,5 @@
 # 🦊 Lisor 🦊
-**Lisor** is my signature for the projects in which I participated.
+**Lisor** is my signature for the projects in which I participated
 
 ### Why fox?
 I just love foxes 🥰
@@ -12,7 +12,7 @@ $ npm install @kyzelm/lisor
 ```
 
 ### Start
-Lisor has one method to start the application. After that fox will be watching you 🦊
+Lisor has one method to launch the application. After using it, fox will observe you 🦊
 
 ```javascript
 import Lisor from '@kyzelm/lisor';
@@ -20,4 +20,4 @@ import Lisor from '@kyzelm/lisor';
 Lisor.start();
 ```
 
-Type 'lisor' and foxy will go brrr 
+Type **lis** (Polish transl. of _fox_) and foxy will go brrr

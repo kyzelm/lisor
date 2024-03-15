@@ -15,15 +15,11 @@ const Lisor = {
                 Lisor._lisorCounter++;
             } else if ((e.key === 's' || e.key === 'S') && Lisor._lisorCounter === 2) {
                 Lisor._lisorCounter++;
-            } else if ((e.key === 'o' || e.key === 'O') && Lisor._lisorCounter === 3) {
-                Lisor._lisorCounter++;
-            } else if (e.key === 'r' || e.key === 'R') {
-                Lisor._lisorCounter++;
             } else {
                 Lisor._lisorCounter = 0;
             }
 
-            if (Lisor._lisorCounter === 5) {
+            if (Lisor._lisorCounter === 3) {
                 Lisor._lisorCounter = 0;
                 Lisor._showLisor();
             }
@@ -36,11 +32,11 @@ const Lisor = {
         lisor.src = Lisor._lisorGif;
         lisor.style.position = 'fixed';
         lisor.style.bottom = '0';
-        lisor.style.left = '-20dvw';
+        lisor.style.left = '-15dvw';
         lisor.style.zIndex = '1000';
         lisor.style.maxWidth = '15dvw';
         lisor.style.maxHeight = '10dvh';
-        lisor.style.transition = `left ${window.innerWidth / 120}s`;
+        lisor.style.transition = `left ${window.innerWidth / 125}s`;
         lisor.style.transitionTimingFunction = 'linear';
         lisor.style.cursor = 'pointer';
         lisor.onclick = () => window.open('https://github.com/kyzelm', '_blank').focus();
@@ -50,7 +46,7 @@ const Lisor = {
             setTimeout(() => {
                 lisor.remove();
                 Lisor._isRunning = false;
-            }, (window.innerWidth / 120) * 1000);
+            }, (window.innerWidth / 125) * 1000);
         }, 100);
     }
 }
