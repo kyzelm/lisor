@@ -1,6 +1,6 @@
 {
   "name": "@kyzelm/lisor",
-  "version": "1.0.3",
+  "version": "1.0.5",
   "description": "My personal signature",
   "main": "lisor.js",
   "scripts": {
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/kyzelm/Lisor.git"
+    "url": "git+https://github.com/kyzelm/lisor.git"
   },
   "keywords": [
     "Lisor"
@@ -16,7 +16,7 @@
   "author": "Damian Osiński",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/kyzelm/Lisor/issues"
+    "url": "https://github.com/kyzelm/lisor/issues"
   },
-  "homepage": "https://github.com/kyzelm/Lisor#readme"
+  "homepage": "https://github.com/kyzelm/lisor#readme"
 }
